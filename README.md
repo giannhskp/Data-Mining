@@ -25,7 +25,7 @@ In order to compute the similarity between the repsesentations we used:
 
 PS: if the notebook cannot be opened on github, you can view it via the Jupiter nbviewer:
   - Visit: https://nbviewer.org/
-  - Paste the link of the notebook ()
+  - Paste the link of the notebook (https://github.com/giannhskp/Data-Mining/blob/main/Project1.ipynb)
 
 ## Project 2 - Fake/True News Classification
 
