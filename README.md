@@ -20,7 +20,7 @@ In order to represent each movie we tried the two following representations:
   - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 In order to compute the similarity between the repsesentations we used:
-  - [Jaccard-Tanimoto coefficient]https://en.wikipedia.org/wiki/Jaccard_index
+  - [Jaccard-Tanimoto coefficient](https://en.wikipedia.org/wiki/Jaccard_index)
   - [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
 
 PS: if the notebook cannot be opened on github, you can view it via the Jupiter nbviewer:
